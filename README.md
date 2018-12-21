@@ -1,5 +1,5 @@
 # devinettejs
-Jeu de devinette en Javascript dans le cadre du cours "Apprenez en coder en Javascript" de OCR
+Jeu de devinette en Javascript dans le cadre du cours "Apprenez à coder en Javascript" de OCR
 
 Objectif :
 Ecrire dans un fichier devinette.js un programme qui fait deviner un nombre entre 1 et 100.
